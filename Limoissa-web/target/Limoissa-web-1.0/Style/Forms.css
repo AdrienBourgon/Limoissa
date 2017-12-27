@@ -1,0 +1,53 @@
+#SignInSignUp
+{
+    width: 280px;
+    margin: auto;
+}
+
+#SignInSignUp form {
+    width: 280px;
+}
+#SignInSignUp form fieldset {
+    padding: 10px;
+    margin: 0px;
+}
+#SignInSignUp form input {
+    width: 250px;
+    display: block;
+}
+
+#F_Search {
+    width: 226px;
+}
+
+form label {
+    float: left;
+    width: 100px;
+    display: block;
+}
+form {
+    width: 300px;
+    margin: auto;
+}
+form fieldset {
+    width: 300px;
+    padding: 10px;
+    margin: 0px;
+}
+form input[type=text], form input[type=number] {
+    width: 150px;
+    display: block;
+}
+form textarea {
+    width: 250px;
+}
+form select {
+    width: 156px;
+    display: block;
+}
+form input[type=checkbox] {
+    margin-left: 0px;
+}
+form button {
+    display: block;
+}

@@ -1,0 +1,28 @@
+body {
+    width: 800px;
+    margin: auto;
+    background-color: #000;
+    color: #DDD;
+}
+a, a:visited {
+    text-decoration: none;
+    color: #DDD;
+}
+a:hover {
+    text-decoration: underline;
+    font-style: italic;
+}
+h1 {
+    text-align: center;
+}
+
+#LibraryContent > form input, #LibraryContent > form button {
+    display: inline;
+}
+
+.error {
+    color: red;
+    font-size: 0.9em;
+}
+
+.clear { clear: both;}

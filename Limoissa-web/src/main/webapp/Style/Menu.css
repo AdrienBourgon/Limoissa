@@ -1,0 +1,17 @@
+#Menu ul {
+    list-style-type: none;
+}
+#Menu ul li {
+    float: left;
+    width: 100px;
+    text-align: center;
+}
+
+#AdminMenu ul {
+    list-style-type: none;
+}
+#AdminMenu li {
+    float: left;
+    width: 100px;
+    text-align: center;
+}
